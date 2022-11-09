@@ -8,7 +8,7 @@
   
 
 ### Research Interest
-🧠My research interest lies in bringing intelligence to the robots.
+🧠My research interest lies in bringing intelligence to robots.
 - Robot Task and Motion Planning
 - Robot Perception
 - Artificial Intelligence
@@ -23,5 +23,5 @@ Here are several projects that I've worked on!
 - 🚔Udacity Self-Driving Car Nanodegree [Repo](https://github.com/ssh199898/CarND-Path-Planning-Project)
 - 🐶SpotMicro! [Repo](https://github.com/Road-Balance/SpotMicroJetson), [Tutorials](https://github.com/Road-Balance/SpotMicroJetson)
 - 🍊4-Link Fruit Harvesting Robot(UG Thesis) [Youtube](https://youtu.be/T1GvnUn5EBE)
-- 📡Robotic platform for service robot(2nd Prize in KRoC2021 REDShow)  [Youtube](https://www.youtube.com/watch?v=xmUUicy89ss), [Poster](https://drive.google.com/file/d/1XPTuaQ1Dr2OMzdcFCZf31E2WV_jKEzD6/view?usp=share_link)
+- 📡Robotic Platform for Service Robot(2nd Prize in KRoC2021 REDShow)  [Youtube](https://www.youtube.com/watch?v=xmUUicy89ss), [Poster](https://drive.google.com/file/d/1XPTuaQ1Dr2OMzdcFCZf31E2WV_jKEzD6/view?usp=share_link)
 - And more!
