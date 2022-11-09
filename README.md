@@ -20,7 +20,7 @@
 
 ### Projects
 Here are several projects that I've worked on!
-- 🚔Udacity Self-Driving Car Nanodegree [Repo](https://github.com/ssh199898/CarND-Path-Planning-Project)
+- 🚔Udacity Self-Driving Car Nanodegree [Repo](https://github.com/ssh199898/CarND-Path-Planning-Project](https://github.com/ssh199898/CarND-Portfolio)
 - 🐶SpotMicro! [Repo](https://github.com/Road-Balance/SpotMicroJetson), [Tutorials](https://github.com/Road-Balance/SpotMicroJetson)
 - 🍊4-Link Fruit Harvesting Robot(UG Thesis) [Youtube](https://youtu.be/T1GvnUn5EBE)
 - 📡Robotic Platform for Service Robot(2nd Prize in KRoC2021 REDShow)  [Youtube](https://www.youtube.com/watch?v=xmUUicy89ss), [Poster](https://drive.google.com/file/d/1XPTuaQ1Dr2OMzdcFCZf31E2WV_jKEzD6/view?usp=share_link)
