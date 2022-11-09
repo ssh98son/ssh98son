@@ -1,16 +1,27 @@
-### Hi there 👋
+## Sanghyeon Son
+<div align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" style="height:20px">
+    <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" style="height:20px">
+  
+  <span>🤖A Roboticist</span>
+</div>
+  
 
-<!--
-**ssh199898/ssh199898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Research Interest
+🧠My research interest lies in bringing intelligence to the robots.
+- Robot Task and Motion Planning
+- Robot Perception
+- Artificial Intelligence
 
-Here are some ideas to get you started:
+### Backgrounds
+- 📚Undergraduate Intern, IM^2 Lab @ KAIST Graduate School of AI (Current)
+- 📚Undergraduate Intern, ADIP Lab @ Hanyang University ME
+- 📚Undergraduate Intern, RoDEL @ Hanyang University ME
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+Here are several projects that I've worked on!
+- 🚔Udacity Self-Driving Car Nanodegree [Repo](https://github.com/ssh199898/CarND-Path-Planning-Project)
+- 🐶SpotMicro! [Repo](https://github.com/Road-Balance/SpotMicroJetson), [Tutorials](https://github.com/Road-Balance/SpotMicroJetson)
+- 🍊4-Link Fruit Harvesting Robot(UG Thesis) [Youtube](https://youtu.be/T1GvnUn5EBE)
+- 📡Robotic platform for service robot(2nd Prize in KRoC2021 REDShow)  [Youtube](https://www.youtube.com/watch?v=xmUUicy89ss), [Poster](https://drive.google.com/file/d/1XPTuaQ1Dr2OMzdcFCZf31E2WV_jKEzD6/view?usp=share_link)
+- And more!
