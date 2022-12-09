@@ -10,7 +10,7 @@
 ### Research Interest
 🧠My research interest lies in bringing intelligence to robots.
 - Robot Task and Motion Planning
-- Decision Making under Uncertainty
+- Decision Making Under Uncertainty
 - 3D Perception and Geometric Representation
 - Artificial Intelligence
 
